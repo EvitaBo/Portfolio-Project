@@ -150,11 +150,6 @@ footer {
     color: black;
 }
 
-.topnav a.active {
-    background-color: #C0C0C0;
-    color: white;
-}
-
 /*Media Queries*/
 @media screen and (max-width: 550px) {
   .logo {
